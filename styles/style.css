@@ -118,7 +118,9 @@ div, p {
   line-height: 1.2;
   font-size: 18px;
   font-style: normal;
+  font-weight: 500;
   color: #2f80ed;
+  margin: 0;
 }
 
 .two-columns__main-text {
