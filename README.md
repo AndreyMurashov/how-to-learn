@@ -1,4 +1,4 @@
-# h1 How to learn
+# How to learn
 
 ------
 
