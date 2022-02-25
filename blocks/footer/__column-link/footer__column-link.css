@@ -5,4 +5,9 @@
   text-decoration: none;
   display: flex;
   align-items: center;
+  transition: opacity 500ms;
+}
+
+.footer__column-link:hover {
+  opacity: 0.5;
 }
