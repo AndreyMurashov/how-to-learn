@@ -5,13 +5,3 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
   color: #000000;
 }
-
-@keyframes rotation {
-  from {
-    transform: rotate(0deg);
-  }
-
-  to {
-    transform: rotate(360deg);
-  }
-}
